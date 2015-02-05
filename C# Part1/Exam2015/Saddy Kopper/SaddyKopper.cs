@@ -14,11 +14,7 @@ namespace Saddy_Kopper
             long result = 1;
             long sum = 0;
             int transformation = 0;
-            string number = Console.ReadLine();
-            if (number.Length < 8)
-            {
-                number = Console.ReadLine(); 
-            }
+            string number = Console.ReadLine();          
             while ((transformation < 10) && (number.Length > 1))
             {
                 List<int> digits = new List<int>();
