@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{D63CD07C-A56A-436D-A73E-D2AE99024526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitArray", "BitArray\BitArray.csproj", "{06A15BCE-E7B8-4142-88C7-D34789F5BDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63CD07C-A56A-436D-A73E-D2AE99024526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63CD07C-A56A-436D-A73E-D2AE99024526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63CD07C-A56A-436D-A73E-D2AE99024526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63CD07C-A56A-436D-A73E-D2AE99024526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A15BCE-E7B8-4142-88C7-D34789F5BDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A15BCE-E7B8-4142-88C7-D34789F5BDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A15BCE-E7B8-4142-88C7-D34789F5BDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A15BCE-E7B8-4142-88C7-D34789F5BDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
