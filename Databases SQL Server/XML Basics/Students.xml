@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xslt" ?>
+<students>
+  <student xmlns:students="urn:some namespace">
+    <name>Koko</name>
+    <sex>Male</sex>
+    <birthDate>1988-12-03</birthDate>
+    <phone>087762252672</phone>
+    <email>dan@yahoo.com</email>
+    <course>DB</course>
+    <specialty>junior</specialty>
+    <facultyNumber>33</facultyNumber>
+    <takenExams>
+      <exam>
+        <name>JS</name>
+        <tutor>Ivan</tutor>
+        <score>56</score>
+      </exam>
+    </takenExams>
+  </student>
+  <student xmlns:students="urn:some namespace">
+    <name>Gogo</name>
+    <sex>Male</sex>
+    <birthDate>1988-10-03</birthDate>
+    <phone>0867622533</phone>
+    <email>gogo@yahoo.com</email>
+    <course>DB</course>
+    <specialty>junior</specialty>
+    <facultyNumber>34</facultyNumber>
+    <takenExams>
+      <exam>
+        <name>JS</name>
+        <tutor>Ivan</tutor>
+        <score>44</score>
+      </exam>
+    </takenExams>
+  </student>
+</students>
