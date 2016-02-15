@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IronMQ", "IronMQ", "{07A7879B-1EC4-4A94-BB23-05B553D6D6B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronMQReceiver.cs", "IronMQReceiver.cs\IronMQReceiver.cs.csproj", "{03EDF04A-4A58-4A72-B283-E0EB7297E2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronMQSender.cs", "IronMQSender.cs\IronMQSender.cs.csproj", "{E119FC73-1904-404C-8906-71E743406459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EDF04A-4A58-4A72-B283-E0EB7297E2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EDF04A-4A58-4A72-B283-E0EB7297E2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EDF04A-4A58-4A72-B283-E0EB7297E2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EDF04A-4A58-4A72-B283-E0EB7297E2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E119FC73-1904-404C-8906-71E743406459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E119FC73-1904-404C-8906-71E743406459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E119FC73-1904-404C-8906-71E743406459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E119FC73-1904-404C-8906-71E743406459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03EDF04A-4A58-4A72-B283-E0EB7297E2D2} = {07A7879B-1EC4-4A94-BB23-05B553D6D6B4}
+		{E119FC73-1904-404C-8906-71E743406459} = {07A7879B-1EC4-4A94-BB23-05B553D6D6B4}
+	EndGlobalSection
+EndGlobal
